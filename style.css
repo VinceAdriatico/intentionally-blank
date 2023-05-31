@@ -1,0 +1,14 @@
+/*
+Theme Name: Omni Aircraft Sales
+Original Author: Ed Dogan / http://station8branding.com/  ed@station8branding.com
+Description: Custom theme utilizing bootstrap and scrollmagic, acf, tinypng, gravity forms
+Version: 8.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: bootstrap, scrollmagic, acf, tinypng, gravity forms
+*/
+
+.message-404 {
+    text-align: center;
+    padding: 25vh;
+}
